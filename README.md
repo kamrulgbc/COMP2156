@@ -1,1 +1,1 @@
-"# COMP2156" 
+### COMP 2156 - Developer Operations
