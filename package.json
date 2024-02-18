@@ -1,9 +1,9 @@
 {
-  "name": "comp2156",
+  "name": "COMP2156",
   "version": "1.0.0",
   "description": "COMP2156 lab exercise",
   "main": "index.js",
-  "homepage": "https://kamrulgbc.github.io/comp2156-lab/",
+  "homepage": "https://kamrulgbc.github.io/COMP2156/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
