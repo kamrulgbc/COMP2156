@@ -12,17 +12,16 @@
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
-  
-  "keywords": [], 
+  "keywords": [],
   "author": "Md Kamrul Islam",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
+    "react-scripts": "^3.0.1",
     "travis": "^0.1.1",
+    "web-vitals": "^2.1.4",
     "yarn": "^1.13.0"
   },
   "eslintConfig": {
@@ -34,6 +33,4 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-  
-  
 }
